@@ -13,15 +13,3 @@
   </a>
 </p>
 
-<!-- Connect with Me Section -->
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://twitter.com/irvinglink" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/irvinglink?style=social" alt="Twitter Follow" />
-  </a>
-  <a href="https://discord.gg/irvinglink" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-irvinglink-blue" alt="Discord" />
-  </a>
-</p>
-
-
